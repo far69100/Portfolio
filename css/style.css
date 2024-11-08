@@ -8,10 +8,44 @@ body
     background-color: #435C8D;
  }
 
+ div {
+   padding: 2em 0 2em 0;
+ }
+
  #name {
     color: white;
  }
 
+ img {
+   padding: 2em;
+ }
+
+p{
+   padding: 2em;
+}
+
+ .zone-photos1 {
+   display: flex;
+   justify-content: space-around;
+   
+ }
+
  .nav-bar{
     display: flex;
+    justify-content:space-around ;
  }
+
+ h1 {
+   text-align: center;
+   padding-bottom: 1em ;
+ }
+
+.contacts {
+   display: flex;
+   justify-content: space-evenly;
+   list-style-type: none;
+}
+
+li {
+   padding-top: 2em;
+}
