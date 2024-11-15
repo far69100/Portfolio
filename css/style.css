@@ -48,4 +48,6 @@ p{
 
 li {
    padding-top: 2em;
+   display: flex;
+   flex-flow: column;
 }
