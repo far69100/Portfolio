@@ -8,6 +8,16 @@ body
     background-color: #435C8D;
  }
 
+ img {
+   width: 10%;
+ }
+
+#photo-farouk {
+   width: 20%;
+}
+
+
+
  div {
    padding: 2em 0 2em 0;
  }
@@ -62,7 +72,7 @@ li {
 
    p {
       
-      
+
    }
 
    .zone-photos1 {
