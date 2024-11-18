@@ -53,3 +53,29 @@ li {
    display: flex;
    flex-flow: column;
 }
+
+@media (max-width:720px) {
+   
+   body {
+      padding: 0 em 2em 1em;
+   }
+
+   p {
+      
+
+   }
+
+   .zone-photos1 {
+      display: flex;
+      justify-content: space-between;
+      
+    }
+
+   #name {
+      text-transform: uppercase;
+      padding-top: 2em;
+   }
+
+   
+
+}
